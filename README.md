@@ -1,3 +1,3 @@
 # hello-world
 Code for hello-world
-a bit about yourself
+My name is Victoria Carrasco.
